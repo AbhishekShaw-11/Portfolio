@@ -1,0 +1,48 @@
+[
+  {
+    "name": "HTML5",
+    "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+  },
+  {
+    "name": "CSS3",
+    "icon": "https://img.icons8.com/color/48/000000/css3.png"
+  },
+  {
+    "name": "JavaScript",
+    "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+  },
+  {
+    "name": "React",
+    "icon": "https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png"
+  },
+  {
+    "name": "Material UI",
+    "icon": "https://spin.atomicobject.com/wp-content/uploads/20180817202431/material-ui.png"
+  },
+  {
+    "name": "Prime React",
+    "icon": "https://miro.medium.com/max/1200/1*aT7oVaUntkAQpWXTfkuKyA.png"
+  },
+  {
+    "name": "Chakra UI",
+    "icon": "https://repository-images.githubusercontent.com/202890778/85840180-ec15-11e9-883c-82d28e34babc"
+  },
+  {
+    "name": "Tailwind CSS",
+    "icon": "https://th.bing.com/th/id/OIP.S-SYtYzIhgPRnmRd8yWH4gAAAA?rs=1&pid=ImgDetMain"
+  },
+  {
+    "name": "VS Code",
+    "icon": "https://code.visualstudio.com/assets/images/code-stable.png"
+  },
+
+  
+  {
+    "name": "JSON",
+    "icon": "https://th.bing.com/th/id/OIP.9dISPBR5OQZtYqWsf1lSGwHaHa?pid=ImgDet&rs=1"
+  },
+  {
+    "name": "GitHub",
+    "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+  }
+]
